@@ -1,1 +1,1 @@
-# case_KHMT2411017_NguyenTanLoc
+Nguyễn Tấn Lộc - KHMT2411017 
