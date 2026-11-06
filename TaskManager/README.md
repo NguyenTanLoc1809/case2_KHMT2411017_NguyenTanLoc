@@ -29,6 +29,15 @@ android:usesCleartextTraffic="true"
 
 Nhớ chạy backend (`api/`) trước khi mở app.
 
+## PHẦN B – Quản lý công việc
+
+- Danh sách công việc: phân loại Tất cả / Của tôi / Được giao cho tôi / Được chia sẻ
+- Tìm kiếm theo tên; lọc theo trạng thái, mức độ ưu tiên; sắp xếp theo hạn, ưu tiên, thời gian tạo
+- Chi tiết công việc, thêm, chỉnh sửa, xóa (có hộp thoại xác nhận)
+- Đổi trạng thái: chưa thực hiện / đang thực hiện / đã hoàn thành
+- Nút Sửa / Xóa / đổi trạng thái chỉ hiện theo quyền (backend vẫn kiểm tra quyền)
+- Hiển thị trạng thái tải dữ liệu, lỗi và nút thử lại
+
 ## PHẦN A – Tài khoản & xác thực
 
 - Đăng nhập, đăng ký (họ tên, email, mật khẩu, xác nhận mật khẩu)

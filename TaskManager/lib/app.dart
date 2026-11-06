@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import 'screens/auth/login_screen.dart';
-import 'screens/profile/profile_screen.dart';
+import 'screens/tasks/task_list_screen.dart';
 import 'services/auth_service.dart';
 
 class TaskManagerApp extends StatelessWidget {
@@ -21,7 +21,7 @@ class TaskManagerApp extends StatelessWidget {
           border: OutlineInputBorder(),
         ),
       ),
-      home: auth.isLoggedIn ? const ProfileScreen() : const LoginScreen(),
+      home: auth.isLoggedIn ? const TaskListScreen() : const LoginScreen(),
     );
   }
 }
