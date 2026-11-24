@@ -24,4 +24,3 @@ case2_KHMT2411017_NguyenTanLoc/
 ## Chạy dự án
 
 Xem hướng dẫn chi tiết trong `api/README.md` và `TaskManager/README.md`
-(có ở các nhánh PHAN-A / PHAN-B).
