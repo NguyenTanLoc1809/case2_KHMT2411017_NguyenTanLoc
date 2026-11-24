@@ -20,15 +20,7 @@ case2_KHMT2411017_NguyenTanLoc/
 └── README.md
 ```
 
-## Nhánh làm bài
-
-| Nhánh   | Nội dung |
-|---------|----------|
-| `main`   | Khởi tạo repo, README |
-| `PHAN-A` | A. Quản lý tài khoản và xác thực |
-| `PHAN-B` | B. Quản lý công việc |
 
 ## Chạy dự án
 
 Xem hướng dẫn chi tiết trong `api/README.md` và `TaskManager/README.md`
-(có ở các nhánh PHAN-A / PHAN-B).
